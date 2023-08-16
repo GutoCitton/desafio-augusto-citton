@@ -8,7 +8,7 @@ export const CARDAPIO = [
     codigo: "chantily",
     descricao: "Chantily (extra do Café)",
     valor: 1.5,
-    extra: "cafe"
+    extra: "cafe",
   },
   {
     codigo: "suco",
@@ -24,7 +24,7 @@ export const CARDAPIO = [
     codigo: "queijo",
     descricao: "Queijo (extra do Sanduíche)",
     valor: 2,
-    extra: "sanduiche"
+    extra: "sanduiche",
   },
   {
     codigo: "salgado",
@@ -35,12 +35,10 @@ export const CARDAPIO = [
     codigo: "combo1",
     descricao: "1 Suco e 1 Sanduíche",
     valor: 9.5,
-    itens: ["suco", "sanduiche"]
   },
   {
     codigo: "combo2",
     descricao: "1 Café e 1 Sanduíche",
     valor: 7.5,
-    itens: ["cafe", "sanduiche"]
   },
 ];

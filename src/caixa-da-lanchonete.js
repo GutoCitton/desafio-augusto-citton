@@ -1,4 +1,4 @@
-import { METODO_DE_PAGAMENTO } from "./enum/metodo_de_pagamento_enum";
+import { METODO_DE_PAGAMENTO } from "./enum/metodo-de-pagamento.enum";
 import { CARDAPIO } from "./enum/cardapio.enum";
 
 class CaixaDaLanchonete {
